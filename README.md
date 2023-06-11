@@ -1,5 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=0E1BF7&background=68FFBF00&width=435&lines=%E6%8B%A5%E6%8A%B1WEB3;console.log(%22Hello+%2C+WEB3%22))](https://git.io/typing-svg)
+
+  
+<center>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=1B2EF7&width=435&lines=%E6%8B%A5%E6%8A%B1WEB3;console.log(%22Hello+WEB3%22)" alt="Typing SVG" />
+</center>
+
 
 <p>
   
