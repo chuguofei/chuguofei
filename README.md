@@ -1,4 +1,4 @@
-## Hey 👋, I'm GuoHui!
+## Hey 👋
 
 <div align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=1B2EF7&width=435&lines=%E6%8B%A5%E6%8A%B1WEB3;console.log(%22Hello+WEB3%22)" alt="Typing SVG" />
